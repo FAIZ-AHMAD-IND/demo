@@ -1,2 +1,2 @@
 # demo
-This is for understanding working of git and git hub
+This is for understanding working of git and git hub.
